@@ -80,6 +80,30 @@ const getData = () => {
         imageUrl: "images/sertifikat/prinsip-solid.png",
         link: "https://www.dicoding.com/certificates/98XWVO11LPM3",
       },
+      {
+        id: 11,
+        title: "Belajar Fundamental Aplikasi Android",
+        date: "1 Desember 2023",
+        issuer: "Dicoding",
+        imageUrl: "images/sertifikat/fundamental-android.png",
+        link: "https://www.dicoding.com/certificates/1OP8NDJL8XQK",
+      },
+      {
+        id: 12,
+        title: "Pengembangan Android Intermediate",
+        date: "11 Desember 2023",
+        issuer: "Dicoding",
+        imageUrl: "images/sertifikat/android-intermediate.png",
+        link: "https://www.dicoding.com/certificates/MRZM8DQY3ZYQ",
+      },
+      {
+        id: 13,
+        title: "Prinsip Pemrograman Solid",
+        date: "12 Desember 2023",
+        issuer: "Dicoding",
+        imageUrl: "images/sertifikat/jetpack-compose.png",
+        link: "https://www.dicoding.com/certificates/GRX5QL0RYZ0M",
+      },
     ];
   };
   
